@@ -9,6 +9,6 @@
 - [Data from a Google Sheet](data-from-google-sheet.ipynb)
 - [Columns](data-columns.ipynb)
 - [Filtering Data](data-filtering.ipynb)
-- [Sorting Data](data-sorting.ipynb)
+- [Sorting Our Data](data-sorting.ipynb)
 - [Adding New Columns](data-new-columns.ipynb)
 - [Plot Types](graphing.ipynb)
